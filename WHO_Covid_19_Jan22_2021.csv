@@ -1,0 +1,239 @@
+Name,WHO Region,Cases _cumulative total,Cases _cumulative total per 1 million population,Cases _newly reported in last 7 days,Cases _newly reported in last 24 hours,Deaths _cumulative total,Deaths_ cumulative total per 1 million population,Deaths _newly reported in last 7 days,Deaths _newly reported in last 24 hours,Transmission Classification
+South Africa,Africa,1369426,23089.8,91123,12710,38854,655.11,3714,566,Community transmission
+Ethiopia,Africa,132034,1148.49,2589,307,2044,17.78,38,7,Community transmission
+Nigeria,Africa,114691,556.38,10692,1386,1478,7.17,96,14,Community transmission
+Algeria,Africa,104606,2385.48,1965,265,2854,65.08,38,6,Community transmission
+Kenya,Africa,99444,1849.39,889,136,1736,32.28,16,2,Community transmission
+Ghana,Africa,58822,1893.03,1841,391,358,11.52,17,0,Community transmission
+Zambia,Africa,40949,2227.43,9849,1434,585,31.82,76,7,Community transmission
+Uganda,Africa,38628,844.49,543,94,305,6.67,1,0,Community transmission
+Namibia,Africa,31253,12299.95,2070,258,301,118.46,30,5,Community transmission
+Zimbabwe,Africa,29408,1978.61,5152,733,879,59.14,290,54,Community transmission
+Mozambique,Africa,29396,940.51,5670,1126,271,8.67,66,18,Community transmission
+Cameroon,Africa,28010,1055.15,674,0,455,17.14,4,0,Community transmission
+C“te d?Ivoire,Africa,25597,970.38,1411,214,142,5.38,2,0,Community transmission
+Senegal,Africa,23642,1411.97,1759,250,546,32.61,57,10,Community transmission
+Democratic Republic of the Congo,Africa,21301,237.84,1806,162,640,7.15,30,0,Community transmission
+Angola,Africa,19093,580.93,668,82,444,13.51,20,2,Community transmission
+Botswana,Africa,18630,7922.17,2579,0,88,37.42,40,0,Community transmission
+Madagascar,Africa,18301,660.9,300,0,273,9.86,6,0,Community transmission
+Mauritania,Africa,16039,3449.5,428,0,402,86.46,15,0,Community transmission
+Malawi,Africa,14851,776.32,4860,971,354,18.51,79,18,Community transmission
+Guinea,Africa,14207,1081.8,182,35,81,6.17,0,0,Community transmission
+Eswatini,Africa,13789,11885.39,1665,346,427,368.05,95,24,Community transmission
+Cabo Verde,Africa,13224,23784.73,632,85,121,217.63,6,1,Community transmission
+Rwanda,Africa,11860,915.67,1738,312,153,11.81,25,5,Community transmission
+Gabon,Africa,10120,4546.81,301,101,66,29.65,0,0,Community transmission
+R‚union,Africa,9584,10704.65,178,32,45,50.26,3,0,Clusters of cases
+Burkina Faso,Africa,9553,457.01,1007,201,106,5.07,13,1,Community transmission
+Mali,Africa,7897,389.96,159,17,318,15.7,15,1,Community transmission
+Congo,Africa,7794,1412.45,634,85,117,21.2,5,3,Community transmission
+Lesotho,Africa,7035,3283.93,794,17,101,47.15,14,0,Community transmission
+Mayotte,Africa,6981,25588.77,726,63,58,212.6,2,0,Clusters of cases
+Equatorial Guinea,Africa,5365,3823.99,49,0,86,61.3,0,0,Community transmission
+Central African Republic,Africa,4974,1029.86,1,0,63,13.04,0,0,Community transmission
+Togo,Africa,4459,538.61,350,76,74,8.94,1,0,Community transmission
+Niger,Africa,4249,175.53,251,24,147,6.07,11,1,Community transmission
+Gambia,Africa,3950,1634.48,60,12,128,52.97,2,0,Community transmission
+South Sudan,Africa,3762,336.08,92,0,63,5.63,0,0,Community transmission
+Benin,Africa,3582,295.47,169,0,48,3.96,2,0,Community transmission
+Sierra Leone,Africa,3051,382.48,164,21,77,9.65,0,0,Community transmission
+Chad,Africa,3012,183.37,303,35,114,6.94,5,0,Community transmission
+Guinea-Bissau,Africa,2510,1275.41,63,0,45,22.87,0,0,Community transmission
+Comoros,Africa,1933,2222.86,592,69,54,62.1,21,3,Community transmission
+Eritrea,Africa,1910,538.57,314,33,6,1.69,0,0,Sporadic cases
+Liberia,Africa,1901,375.86,24,3,84,16.61,0,0,Community transmission
+Burundi,Africa,1358,114.21,255,36,2,0.17,0,0,Community transmission
+Sao Tome and Principe,Africa,1170,5338.59,65,19,17,77.57,0,0,Community transmission
+Seychelles,Africa,844,8581.86,234,82,3,30.5,2,1,Clusters of cases
+Mauritius,Africa,556,437.19,10,0,10,7.86,0,0,Sporadic cases
+United Republic of Tanzania,Africa,509,8.52,0,0,21,0.35,0,0,Pending
+Saint Helena,Africa,0,0,0,0,0,0,0,0,No cases
+United States of America,Americas,24225155,73187.19,1353825,187919,402803,1216.92,21281,4368,Community transmission
+Brazil,Americas,8638249,40639.22,381713,64385,212831,1001.28,6867,1340,Community transmission
+Colombia,Americas,1956979,38460.45,124999,17908,49792,978.56,2668,390,Community transmission
+Argentina,Americas,1831681,40527.71,74252,12112,46216,1022.57,1233,150,Community transmission
+Mexico,Americas,1688944,13099.42,117043,20548,144371,1119.74,7454,1539,Community transmission
+Peru,Americas,1078675,32715.02,35035,5461,39157,1187.59,684,113,Community transmission
+Canada,Americas,725495,19222.41,44167,5744,18462,489.16,1079,196,Community transmission
+Chile,Americas,685107,35839.08,28395,4367,17702,926.02,408,108,Community transmission
+Panama,Americas,303777,70404.03,15369,2243,4912,1138.42,318,48,Community transmission
+Ecuador,Americas,236189,13387.08,10187,1874,14526,823.33,280,89,Community transmission
+Dominican Republic,Americas,199672,18406.49,12185,1549,2482,228.8,54,12,Community transmission
+Bolivia (Plurinational State of),Americas,193745,16597.67,14927,2655,9764,836.46,271,42,Community transmission
+Costa Rica,Americas,187712,36848.77,5556,835,2492,489.19,108,15,Community transmission
+Guatemala,Americas,152395,8506.29,5458,1071,5389,300.8,238,46,Community transmission
+Honduras,Americas,136898,13821.65,5889,830,3406,343.88,86,15,Community transmission
+Paraguay,Americas,124447,17447.79,5855,1088,2557,358.5,105,22,Community transmission
+Venezuela (Bolivarian Republic of),Americas,121691,4279.48,3880,574,1122,39.46,38,6,Community transmission
+Puerto Rico,Americas,88728,31014.53,3912,215,1732,605.41,53,15,Community transmission
+El Salvador,Americas,52388,8076.83,2231,951,1530,235.89,71,9,Community transmission
+Uruguay,Americas,34294,9872.39,5819,848,336,96.73,61,6,Community transmission
+Cuba,Americas,19530,1724.26,2981,408,184,16.24,24,4,Clusters of cases
+French Guiana,Americas,15431,51663.64,777,120,76,254.45,2,0,Community transmission
+Jamaica,Americas,14550,4913.6,635,63,331,111.78,9,0,Community transmission
+Belize,Americas,11642,29278.62,223,27,286,719.27,8,3,Community transmission
+Haiti,Americas,10963,961.45,394,0,240,21.05,2,0,Community transmission
+Guadeloupe,Americas,8948,22363.07,114,0,156,389.88,0,0,Community transmission
+Bahamas,Americas,8088,20567.38,67,13,175,445.02,0,0,Clusters of cases
+Suriname,Americas,7783,13267.26,536,74,146,248.88,7,0,Clusters of cases
+Trinidad and Tobago,Americas,7430,5309.08,125,15,133,95.03,4,1,Community transmission
+Guyana,Americas,7015,8918.67,319,65,170,216.13,0,0,Clusters of cases
+Aruba,Americas,6562,61461.51,334,39,52,487.05,0,0,Community transmission
+Martinique,Americas,6302,16793.47,75,0,44,117.25,1,0,Community transmission
+Nicaragua,Americas,4953,747.67,37,0,168,25.36,1,0,Community transmission
+Cura‡ao,Americas,4535,27636.77,47,8,20,121.88,1,0,Community transmission
+United States Virgin Islands,Americas,2305,22073.26,87,22,24,229.83,0,0,Community transmission
+Sint Maarten,Americas,1703,39713.63,96,26,27,629.63,0,0,Community transmission
+Turks and Caicos Islands,Americas,1164,30063.54,134,39,7,180.79,1,0,Clusters of cases
+Barbados,Americas,1156,4022.62,149,0,9,31.32,2,0,Clusters of cases
+Saint Martin,Americas,1117,28893.66,71,0,12,310.41,0,0,Community transmission
+Saint Lucia,Americas,718,3910.1,216,5,8,43.57,2,0,Sporadic cases
+Bermuda,Americas,684,10983.89,20,0,12,192.7,0,0,Sporadic cases
+Saint Vincent and the Grenadines,Americas,655,5904.09,315,53,2,18.03,2,0,Clusters of cases
+Cayman Islands,Americas,381,5797.32,14,0,2,30.43,0,0,Sporadic cases
+Bonaire,Americas,349,16686.59,31,1,3,143.44,0,0,Community transmission
+Saint Barth‚lemy,Americas,281,28426.91,57,0,0,0,0,0,Sporadic cases
+Antigua and Barbuda,Americas,190,1940.18,6,0,6,61.27,0,0,Sporadic cases
+Grenada,Americas,139,1235.3,0,0,1,8.89,0,0,Sporadic cases
+British Virgin Islands,Americas,121,4001.72,7,0,1,33.07,0,0,Clusters of cases
+Dominica,Americas,113,1569.64,4,0,0,0,0,0,Clusters of cases
+Falkland Islands (Malvinas),Americas,35,10048.81,3,0,0,0,0,0,No cases
+Saint Kitts and Nevis,Americas,35,657.99,1,0,0,0,0,0,Sporadic cases
+Sint Eustatius,Americas,20,6371.46,1,0,0,0,0,0,Sporadic cases
+Saint Pierre and Miquelon,Americas,16,2761,0,0,0,0,0,0,Sporadic cases
+Anguilla,Americas,15,999.87,0,0,0,0,0,0,Sporadic cases
+Montserrat,Americas,13,2600.52,0,0,1,200.04,0,0,No cases
+Saba,Americas,6,3103.98,1,0,0,0,0,0,Sporadic cases
+Iran (Islamic Republic of),Eastern Mediterranean,1354520,16126.59,42710,6204,57150,680.41,612,93,Community transmission
+Iraq,Eastern Mediterranean,611407,15200.62,5221,809,12977,322.63,55,9,Community transmission
+Pakistan,Eastern Mediterranean,527146,2386.44,15225,2363,11157,50.51,339,54,Community transmission
+Morocco,Eastern Mediterranean,463706,12562.96,7372,1164,8076,218.8,222,33,Clusters of cases
+Saudi Arabia,Eastern Mediterranean,365775,10506.59,1335,212,6342,182.17,32,4,Sporadic cases
+Jordan,Eastern Mediterranean,318181,31184.63,6138,776,4198,411.44,91,11,Community transmission
+Lebanon,Eastern Mediterranean,269241,39446.66,32109,4594,2151,315.14,370,67,Community transmission
+United Arab Emirates,Eastern Mediterranean,267258,27021.96,24289,3529,766,77.45,40,4,Community transmission
+Tunisia,Eastern Mediterranean,190884,16151.13,19989,2511,5989,506.74,511,68,Community transmission
+"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,173470,34004.3,4082,574,1925,377.35,104,7,Community transmission
+Kuwait,Eastern Mediterranean,159834,37426.85,3400,570,951,222.69,5,0,Community transmission
+Egypt,Eastern Mediterranean,159715,1560.72,5974,752,8801,86,380,54,Clusters of cases
+Qatar,Eastern Mediterranean,148258,51459.66,1569,258,248,86.08,2,0,Community transmission
+Oman,Eastern Mediterranean,132486,25943.94,1222,169,1517,297.07,8,1,Community transmission
+Libya,Eastern Mediterranean,111746,16262.73,4312,622,1716,249.73,71,1,Community transmission
+Bahrain,Eastern Mediterranean,98878,58109.69,2066,305,366,215.09,10,0,Clusters of cases
+Afghanistan,Eastern Mediterranean,54483,1399.57,652,80,2370,60.88,46,7,Clusters of cases
+Sudan,Eastern Mediterranean,28233,643.86,136,0,1707,38.93,12,0,Community transmission
+Syrian Arab Republic,Eastern Mediterranean,13398,765.57,638,85,866,49.48,57,8,Community transmission
+Djibouti,Eastern Mediterranean,5916,5987.85,16,3,61,61.74,0,0,Clusters of cases
+Somalia,Eastern Mediterranean,4744,298.49,0,0,130,8.18,0,0,Community transmission
+Yemen,Eastern Mediterranean,2119,71.05,5,0,615,20.62,2,2,Sporadic cases
+Russian Federation,Europe,3655839,25051.24,160023,21887,67832,464.81,3892,612,Clusters of cases
+The United Kingdom,Europe,3505758,51641.83,294178,38905,93290,1374.22,8523,1820,Community transmission
+France,Europe,2916577,44682.4,132669,26565,71261,1091.73,2613,310,Community transmission
+Italy,Europe,2414166,39928.76,95130,13568,83681,1384.03,3355,524,Clusters of cases
+Spain,Europe,2412318,51595.11,184705,18500,54637,1168.59,1146,80,Community transmission
+Germany,Europe,2088400,24926.02,109810,20398,49783,594.18,5902,1013,Community transmission
+Turkey,Europe,1591878,18874.74,50377,6435,24487,290.34,1162,159,Community transmission
+Poland,Europe,1457755,38517.45,43393,7008,34561,913.19,2105,420,Community transmission
+Ukraine,Europe,1177621,26927.05,38857,5583,21499,491.59,1123,241,Community transmission
+Netherlands,Europe,927110,54106.62,38232,5615,13248,773.16,573,87,Community transmission
+Czechia,Europe,917359,85662.59,50837,8228,14973,1398.17,1117,153,Community transmission
+Romania,Europe,700898,36433.58,19506,3000,17485,908.89,516,116,Community transmission
+Belgium,Europe,684256,59040.4,10099,0,20572,1775.04,297,0,Community transmission
+Portugal,Europe,581605,57038.5,74497,14647,9465,928.24,1229,219,Clusters of cases
+Israel,Europe,569152,65755.84,56629,8570,4158,480.39,363,41,Community transmission
+Sweden,Europe,537967,53267.94,25803,4706,10797,1069.09,137,2,Community transmission
+Switzerland,Europe,502438,58054.3,14517,2717,8191,946.43,380,69,Community transmission
+Austria,Europe,395078,43866.37,10069,1634,7165,795.55,339,38,Community transmission
+Serbia,Europe,377445,54201.29,11254,1646,3810,547.12,146,19,Community transmission
+Hungary,Europe,355662,36816.67,8026,1410,11713,1212.48,647,98,Community transmission
+Georgia,Europe,251071,62938.2,6459,1137,2998,751.54,131,11,Community transmission
+Slovakia,Europe,231242,42354.79,13264,2464,3801,696.2,541,64,Clusters of cases
+Belarus,Europe,230494,24392.65,12798,1778,1610,170.38,66,9,Community transmission
+Azerbaijan,Europe,228028,22489.79,2208,332,3044,300.22,87,12,Clusters of cases
+Croatia,Europe,227326,55374.23,4229,776,4738,1154.13,221,27,Community transmission
+Kazakhstan,Europe,219527,11691.45,6715,0,2956,157.43,71,0,Clusters of cases
+Bulgaria,Europe,213409,30713.2,2993,482,8651,1245.03,302,37,Clusters of cases
+Denmark,Europe,191505,33062.56,6346,886,1872,323.19,212,35,Community transmission
+Ireland,Europe,179324,36316.68,20180,2485,2768,560.58,308,60,Community transmission
+Lithuania,Europe,173819,63850.31,9405,1759,2554,938.18,208,40,Community transmission
+Armenia,Europe,165528,55860.42,1952,307,3021,1019.49,58,5,Community transmission
+Republic of Moldova,Europe,154118,38205.11,3172,612,3299,817.81,106,17,Community transmission
+Slovenia,Europe,152851,73523.6,9146,1714,3442,1655.65,240,49,Clusters of cases
+Greece,Europe,149973,14388.59,3285,511,5545,531.99,191,27,Community transmission
+Bosnia and Herzegovina,Europe,118717,36185.17,2049,334,4521,1378.01,122,12,Community transmission
+North Macedonia,Europe,89463,42941.28,1873,71,2739,1314.69,82,13,Community transmission
+Kyrgyzstan,Europe,83585,12811.54,862,155,1394,213.67,16,2,Clusters of cases
+Uzbekistan,Europe,78219,2337.04,442,56,620,18.52,2,0,Clusters of cases
+Albania,Europe,69238,24059.38,3904,670,1291,448.61,35,4,Clusters of cases
+Norway,Europe,59456,10967.23,2177,423,543,100.16,32,18,Community transmission
+Latvia,Europe,57808,30647.9,5776,1088,1032,547.13,123,20,Community transmission
+Kosovo[1],Europe,56692,30473.33,2175,320,1416,761.13,38,6,Community transmission
+Montenegro,Europe,56686,90254.85,2035,0,758,1206.88,18,0,Clusters of cases
+Luxembourg,Europe,49204,78603.4,839,238,562,897.8,20,2,Community transmission
+Finland,Europe,40722,7349.59,1387,0,633,114.25,23,0,Community transmission
+Estonia,Europe,39212,29559.72,3591,668,354,266.86,53,5,Clusters of cases
+Cyprus,Europe,29472,24410.3,1348,178,176,145.77,13,0,Clusters of cases
+Malta,Europe,16280,36870.7,1201,151,245,554.87,10,1,Clusters of cases
+Tajikistan,Europe,13714,1437.88,3,0,91,9.54,0,0,Pending
+Andorra,Europe,9308,120468.52,490,114,92,1190.71,5,0,Community transmission
+Iceland,Europe,5975,17509.52,40,5,29,84.98,0,0,Community transmission
+Gibraltar,Europe,3793,112582,469,81,47,1395.03,30,2,Clusters of cases
+Jersey,Europe,3077,28281.25,74,16,62,569.85,3,0,Community transmission
+San Marino,Europe,2815,82945.37,92,28,65,1915.26,0,0,Community transmission
+Liechtenstein,Europe,2480,65028.71,43,10,45,1179.96,5,1,Sporadic cases
+Monaco,Europe,1262,32157.78,131,22,8,203.85,1,0,Sporadic cases
+Faroe Islands,Europe,652,13342.88,5,2,1,20.46,0,0,Sporadic cases
+Isle of Man,Europe,432,5080.44,26,0,25,294.01,0,0,No cases
+Guernsey,Europe,309,4889.55,2,0,13,205.71,0,0,Community transmission
+Greenland,Europe,30,528.43,1,0,0,0,0,0,No cases
+Holy See,Europe,26,32138.44,0,0,0,0,0,0,Sporadic cases
+Turkmenistan,Europe,0,0,0,0,0,0,0,0,No cases
+Other,Other,745,,0,0,13,,0,0,Not applicable
+India,South-East Asia,10625428,7699.56,97745,14545,153032,110.89,1114,163,Clusters of cases
+Indonesia,South-East Asia,951651,3479.23,82051,11703,27203,99.45,1957,346,Community transmission
+Bangladesh,South-East Asia,530271,3219.83,4548,584,7966,48.37,117,16,Community transmission
+Nepal,South-East Asia,268646,9220.16,2100,336,1979,67.92,36,4,Clusters of cases
+Myanmar,South-East Asia,136166,2502.6,3301,445,3013,55.38,101,16,Clusters of cases
+Sri Lanka,South-East Asia,56076,2618.75,5177,887,276,12.89,25,2,Clusters of cases
+Maldives,South-East Asia,14765,27315.08,440,53,50,92.5,1,1,Clusters of cases
+Thailand,South-East Asia,13104,187.74,1654,309,71,1.02,2,0,Clusters of cases
+Bhutan,South-East Asia,851,1102.89,17,1,1,1.3,0,0,Clusters of cases
+Timor-Leste,South-East Asia,53,40.2,2,0,0,0,0,0,Sporadic cases
+Democratic People's Republic of Korea,South-East Asia,0,0,0,0,0,0,0,0,No cases
+Philippines,Western Pacific,507717,4633.25,13112,1778,10116,92.32,377,74,Community transmission
+Japan,Western Pacific,351020,2775.38,41806,5799,4830,38.19,515,87,Clusters of cases
+Malaysia,Western Pacific,172549,5331.18,24694,3170,642,19.84,64,12,Clusters of cases
+China,Western Pacific,99589,67.69,1299,175,4809,3.27,6,1,Clusters of cases
+Republic of Korea,Western Pacific,74262,1448.47,3026,346,1328,25.9,111,12,Clusters of cases
+Singapore,Western Pacific,59235,10125.05,206,38,29,4.96,0,0,Sporadic cases
+Australia,Western Pacific,28750,1127.46,92,10,909,35.65,0,0,Clusters of cases
+French Polynesia,Western Pacific,17820,63437.14,230,12,128,455.67,2,0,Sporadic cases
+Guam,Western Pacific,7321,43377.28,58,7,128,758.41,4,0,Clusters of cases
+New Zealand,Western Pacific,1920,398.16,30,9,25,5.18,0,0,Clusters of cases
+Mongolia,Western Pacific,1584,483.18,105,16,1,0.31,0,0,Clusters of cases
+Viet Nam,Western Pacific,1546,15.88,15,2,35,0.36,0,0,Clusters of cases
+Papua New Guinea,Western Pacific,844,94.33,10,0,9,1.01,0,0,Community transmission
+Cambodia,Western Pacific,456,27.27,30,3,0,0,0,0,Sporadic cases
+Brunei Darussalam,Western Pacific,174,397.73,0,0,3,6.86,0,0,Sporadic cases
+Northern Mariana Islands (Commonwealth of the),Western Pacific,129,2241.26,1,0,2,34.75,0,0,Pending
+Fiji,Western Pacific,55,61.35,2,0,2,2.23,0,0,Sporadic cases
+New Caledonia,Western Pacific,44,154.12,4,0,0,0,0,0,Sporadic cases
+Lao People's Democratic Republic,Western Pacific,41,5.64,0,0,0,0,0,0,Sporadic cases
+Solomon Islands,Western Pacific,17,24.75,0,0,0,0,0,0,No cases
+Marshall Islands,Western Pacific,4,67.57,0,0,0,0,0,0,No cases
+Wallis and Futuna,Western Pacific,4,355.68,0,0,0,0,0,0,Sporadic cases
+Samoa,Western Pacific,2,10.08,0,0,0,0,0,0,No cases
+Micronesia (Federated States of),Western Pacific,1,8.69,0,0,0,0,0,0,No cases
+Vanuatu,Western Pacific,1,3.26,0,0,0,0,0,0,No cases
+American Samoa,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Cook Islands,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Kiribati,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Nauru,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Niue,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Palau,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Pitcairn Islands,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Tokelau,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Tonga,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Tuvalu,Western Pacific,0,0,0,0,0,0,0,0,No cases
+Global,,96012792,12299.38138,4438467,653081,2075870,265.9220328,94619,16943,
