@@ -1,0 +1,63 @@
+Name,WHO Region,Cases _cumulative total,Cases _cumulative total per 1 million population,Cases _newly reported in last 7 days,Cases _newly reported in last 24 hours,Deaths _cumulative total,Deaths_ cumulative total per 1 million population,Deaths _newly reported in last 7 days,Deaths _newly reported in last 24 hours,Transmission Classification
+Russian Federation,Europe,3655839,25051.24,160023,21887,67832,464.81,3892,612,Clusters of cases
+The United Kingdom,Europe,3505758,51641.83,294178,38905,93290,1374.22,8523,1820,Community transmission
+France,Europe,2916577,44682.4,132669,26565,71261,1091.73,2613,310,Community transmission
+Italy,Europe,2414166,39928.76,95130,13568,83681,1384.03,3355,524,Clusters of cases
+Spain,Europe,2412318,51595.11,184705,18500,54637,1168.59,1146,80,Community transmission
+Germany,Europe,2088400,24926.02,109810,20398,49783,594.18,5902,1013,Community transmission
+Turkey,Europe,1591878,18874.74,50377,6435,24487,290.34,1162,159,Community transmission
+Poland,Europe,1457755,38517.45,43393,7008,34561,913.19,2105,420,Community transmission
+Ukraine,Europe,1177621,26927.05,38857,5583,21499,491.59,1123,241,Community transmission
+Netherlands,Europe,927110,54106.62,38232,5615,13248,773.16,573,87,Community transmission
+Czechia,Europe,917359,85662.59,50837,8228,14973,1398.17,1117,153,Community transmission
+Romania,Europe,700898,36433.58,19506,3000,17485,908.89,516,116,Community transmission
+Belgium,Europe,684256,59040.4,10099,0,20572,1775.04,297,0,Community transmission
+Portugal,Europe,581605,57038.5,74497,14647,9465,928.24,1229,219,Clusters of cases
+Israel,Europe,569152,65755.84,56629,8570,4158,480.39,363,41,Community transmission
+Sweden,Europe,537967,53267.94,25803,4706,10797,1069.09,137,2,Community transmission
+Switzerland,Europe,502438,58054.3,14517,2717,8191,946.43,380,69,Community transmission
+Austria,Europe,395078,43866.37,10069,1634,7165,795.55,339,38,Community transmission
+Serbia,Europe,377445,54201.29,11254,1646,3810,547.12,146,19,Community transmission
+Hungary,Europe,355662,36816.67,8026,1410,11713,1212.48,647,98,Community transmission
+Georgia,Europe,251071,62938.2,6459,1137,2998,751.54,131,11,Community transmission
+Slovakia,Europe,231242,42354.79,13264,2464,3801,696.2,541,64,Clusters of cases
+Belarus,Europe,230494,24392.65,12798,1778,1610,170.38,66,9,Community transmission
+Azerbaijan,Europe,228028,22489.79,2208,332,3044,300.22,87,12,Clusters of cases
+Croatia,Europe,227326,55374.23,4229,776,4738,1154.13,221,27,Community transmission
+Kazakhstan,Europe,219527,11691.45,6715,0,2956,157.43,71,0,Clusters of cases
+Bulgaria,Europe,213409,30713.2,2993,482,8651,1245.03,302,37,Clusters of cases
+Denmark,Europe,191505,33062.56,6346,886,1872,323.19,212,35,Community transmission
+Ireland,Europe,179324,36316.68,20180,2485,2768,560.58,308,60,Community transmission
+Lithuania,Europe,173819,63850.31,9405,1759,2554,938.18,208,40,Community transmission
+Armenia,Europe,165528,55860.42,1952,307,3021,1019.49,58,5,Community transmission
+Republic of Moldova,Europe,154118,38205.11,3172,612,3299,817.81,106,17,Community transmission
+Slovenia,Europe,152851,73523.6,9146,1714,3442,1655.65,240,49,Clusters of cases
+Greece,Europe,149973,14388.59,3285,511,5545,531.99,191,27,Community transmission
+Bosnia and Herzegovina,Europe,118717,36185.17,2049,334,4521,1378.01,122,12,Community transmission
+North Macedonia,Europe,89463,42941.28,1873,71,2739,1314.69,82,13,Community transmission
+Kyrgyzstan,Europe,83585,12811.54,862,155,1394,213.67,16,2,Clusters of cases
+Uzbekistan,Europe,78219,2337.04,442,56,620,18.52,2,0,Clusters of cases
+Albania,Europe,69238,24059.38,3904,670,1291,448.61,35,4,Clusters of cases
+Norway,Europe,59456,10967.23,2177,423,543,100.16,32,18,Community transmission
+Latvia,Europe,57808,30647.9,5776,1088,1032,547.13,123,20,Community transmission
+Kosovo[1],Europe,56692,30473.33,2175,320,1416,761.13,38,6,Community transmission
+Montenegro,Europe,56686,90254.85,2035,0,758,1206.88,18,0,Clusters of cases
+Luxembourg,Europe,49204,78603.4,839,238,562,897.8,20,2,Community transmission
+Finland,Europe,40722,7349.59,1387,0,633,114.25,23,0,Community transmission
+Estonia,Europe,39212,29559.72,3591,668,354,266.86,53,5,Clusters of cases
+Cyprus,Europe,29472,24410.3,1348,178,176,145.77,13,0,Clusters of cases
+Malta,Europe,16280,36870.7,1201,151,245,554.87,10,1,Clusters of cases
+Tajikistan,Europe,13714,1437.88,3,0,91,9.54,0,0,Pending
+Andorra,Europe,9308,120468.52,490,114,92,1190.71,5,0,Community transmission
+Iceland,Europe,5975,17509.52,40,5,29,84.98,0,0,Community transmission
+Gibraltar,Europe,3793,112582,469,81,47,1395.03,30,2,Clusters of cases
+Jersey,Europe,3077,28281.25,74,16,62,569.85,3,0,Community transmission
+San Marino,Europe,2815,82945.37,92,28,65,1915.26,0,0,Community transmission
+Liechtenstein,Europe,2480,65028.71,43,10,45,1179.96,5,1,Sporadic cases
+Monaco,Europe,1262,32157.78,131,22,8,203.85,1,0,Sporadic cases
+Faroe Islands,Europe,652,13342.88,5,2,1,20.46,0,0,Sporadic cases
+Isle of Man,Europe,432,5080.44,26,0,25,294.01,0,0,No cases
+Guernsey,Europe,309,4889.55,2,0,13,205.71,0,0,Community transmission
+Greenland,Europe,30,528.43,1,0,0,0,0,0,No cases
+Holy See,Europe,26,32138.44,0,0,0,0,0,0,Sporadic cases
+Turkmenistan,Europe,0,0,0,0,0,0,0,0,No cases
